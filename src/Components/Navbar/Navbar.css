@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
+.links {
+    margin-left: 700px;
+}
+a {
+    padding: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #e0581d;
+}
+.head {
+    font-size: 30px;
+}
